@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/21AVL-phat-trien-he-thong-tich-hop.iml" filepath="$PROJECT_DIR$/.idea/21AVL-phat-trien-he-thong-tich-hop.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/LAB2/LAB2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Lab6/Lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketTCP/SocketTCP.iml" filepath="$PROJECT_DIR$/SocketTCP/SocketTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab04-socket/lab04-socket.iml" filepath="$PROJECT_DIR$/lab04-socket/lab04-socket.iml" />
     </modules>
   </component>
 </project>
